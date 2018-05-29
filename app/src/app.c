@@ -24,4 +24,8 @@ int liba_goodbye(){
 	return 0;
 }
 
+int testRevert(){
+	return 1;
+}
+
 /* EOF */
