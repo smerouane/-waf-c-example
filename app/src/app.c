@@ -24,4 +24,8 @@ int liba_goodbye(){
 	return 0;
 }
 
+int testReset(){
+	return 0; 
+}
+
 /* EOF */
