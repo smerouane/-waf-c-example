@@ -27,5 +27,8 @@ int liba_goodbye(){
 int testReset(){
 	return 0; 
 }
+int liba_greetings(){
+	return 0;
+}
 
 /* EOF */
