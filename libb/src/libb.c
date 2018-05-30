@@ -10,6 +10,9 @@ void libb_hello() {
 
   fprintf(stdout, "%s\n", "hello from libb");
 }
+void libb_how_are_you(){
+	
+}
 
  void libb_happy(){
 	 
